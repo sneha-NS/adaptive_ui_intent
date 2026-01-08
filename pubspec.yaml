@@ -1,5 +1,7 @@
 name: adaptive_ui_intent
-description: "A new Flutter package project."
+description: Intent-based adaptive UI for Flutter that helps developers build responsive
+  layouts based on user intent such as reading, input, monitoring, navigation,
+  and media consumption instead of device-specific checks.
 version: 0.0.1
 
 homepage: https://github.com/YOUR_USERNAME/adaptive_ui_intent
