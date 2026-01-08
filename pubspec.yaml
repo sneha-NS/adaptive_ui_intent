@@ -1,10 +1,10 @@
 name: adaptive_ui_intent
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/sneha-dev/adaptive_ui_intent
-repository: https://github.com/sneha-dev/adaptive_ui_intent
-issue_tracker: https://github.com/sneha-dev/adaptive_ui_intent/issues
 
+homepage: https://github.com/YOUR_USERNAME/adaptive_ui_intent
+repository: https://github.com/YOUR_USERNAME/adaptive_ui_intent
+issue_tracker: https://github.com/YOUR_USERNAME/adaptive_ui_intent/issues
 
 environment:
   sdk: ^3.10.4
